@@ -9,7 +9,7 @@ countries:
   "Austr\xE1lia": 9
   "Rak\xFAsko": 13
   Belgium: 1
-  "\u010Cesko": 21
+  "\u010Cesko": 22
   "Franc\xFAzsko": 2
   Kanada: 11
   Belgicko: 2
@@ -23,7 +23,7 @@ countries:
   "\u0160panielsko": 1
   "\u0160v\xE9dsko": 1
 man: 214
-woman: 40
+woman: 41
 hindex:
 - 37
 - 36
@@ -47,18 +47,19 @@ hindex:
 - 30
 - 42
 - 67
+- 30
 - 38
 - 39
-- 60
+- 61
 - 39
 - 43
-- 73
+- 74
 - 46
 - 32
 - 30
 - 46
 - 35
-- 59
+- 62
 - 52
 - 32
 - 39
@@ -71,19 +72,19 @@ hindex:
 - 37
 - 50
 - 34
-- 81
+- 83
 - 33
 - 52
-- 68
+- 70
 - 46
 - 47
 - 34
 - 35
 - 39
 - 69
-- 181
-- 132
-- 201
+- 185
+- 134
+- 206
 - 30
 - 49
 - 56
@@ -97,8 +98,8 @@ hindex:
 - 47
 - 32
 - 42
-- 91
-- 99
+- 92
+- 100
 - 32
 - 43
 - 67
@@ -111,11 +112,11 @@ hindex:
 - 31
 - 32
 - 70
-- 62
+- 63
 - 30
 - 31
 - 35
-- 68
+- 70
 - 48
 - 37
 - 40
@@ -150,7 +151,7 @@ hindex:
 - 30
 - 33
 - 30
-- 82
+- 83
 - 44
 - 44
 - 38
@@ -167,7 +168,7 @@ hindex:
 - 47
 - 32
 - 41
-- 82
+- 83
 - 31
 - 37
 - 34
@@ -178,24 +179,24 @@ hindex:
 - 47
 - 38
 - 30
-- 58
+- 60
 - 31
 - 34
 - 50
 - 34
 - 32
 - 49
-- 59
+- 60
 - 38
 - 33
-- 137
+- 143
 - 32
 - 30
 - 46
-- 61
+- 63
 - 35
 - 54
-- 58
+- 62
 - 47
 - 45
 - 38
@@ -203,7 +204,7 @@ hindex:
 - 33
 - 30
 - 32
-- 60
+- 61
 - 33
 - 53
 - 41
@@ -231,20 +232,20 @@ hindex:
 - 38
 - 51
 - 45
-- 59
+- 61
 - 38
 - 30
-- 64
+- 65
 - 62
 - 32
 - 35
-- 63
+- 65
 - 36
 - 54
-- 199
+- 205
 - 30
 - 32
-- 60
+- 61
 - 38
 - 30
 - 46
@@ -260,7 +261,7 @@ hindex:
 - 36
 - 35
 - 33
-- 58
+- 59
 - 53
 - 37
 - 44
@@ -280,8 +281,8 @@ hindex:
 - 44
 - 35
 affiliation: "['Univerzita Komensk\xE9ho','Slovensk\xE1 akad\xE9mia vied','Slovensk\xE1\
-  \ technick\xE1 univerzita','Univerzita Pavla Jozefa \u0160af\xE1rika','\u010Cesk\xE1\
-  \ akad\xE9mia vied','Technick\xE1 univerzita v Ko\u0161iciach','Univerzita Palack\xE9\
+  \ technick\xE1 univerzita','\u010Cesk\xE1 akad\xE9mia vied','Univerzita Pavla Jozefa\
+  \ \u0160af\xE1rika','Technick\xE1 univerzita v Ko\u0161iciach','Univerzita Palack\xE9\
   ho v Olomouci','Masarykova univerzita','Medical University of Vienna','Slovensk\xE1\
   \ po\u013Enohospod\xE1rska univerzita','Univerzita Karlova','Delft University of\
   \ Technology','ETH Z\xFCrich','KAUST','New York University','North Carolina State\
@@ -321,12 +322,12 @@ affiliation: "['Univerzita Komensk\xE9ho','Slovensk\xE1 akad\xE9mia vied','Slove
   \ University','Vanderbilt university','Vienna University of Technology','Vysok\xE1\
   \ \u0161kola chemicko-technologick\xE1','Z\xE1pado\u010Desk\xE1 univerzita v Plzni','Zeppelin\
   \ University','\u017Dilinsk\xE1 univerzita']"
-hindex_hist_x: '[''30-47'',''47-64'',''64-81'',''81-98'',''98-115'',''115-132'',''132-149'',''149-166'',''166-183'',''183-201'',]'
-hindex_hist_count: '[189,46,8,5,1,1,1,0,1,2]'
+hindex_hist_x: '[''30-47'',''47-65'',''65-82'',''82-100'',''100-118'',''118-135'',''135-153'',''153-170'',''170-188'',''188-206'',]'
+hindex_hist_count: '[190,46,7,7,0,1,1,0,1,2]'
 country: "['Slovensko','USA','\u010Cesko','Rak\xFAsko','Kanada','Nemecko','Austr\xE1\
   lia','Ve\u013Ek\xE1 Brit\xE1nia','\u0160vaj\u010Diarsko','Holandsko','Belgicko','Franc\xFA\
   zsko','Katar','N\xF3rsko','Saudsk\xE1 Ar\xE1bia','Spojen\xE9 arabsk\xE9 emir\xE1\
   ty','Belgium','D\xE1nsko','\xCDrsko','Japonsko','Rusk\xE1 feder\xE1cia','\u0160\
   panielsko','\u0160v\xE9dsko']"
-countryCount: '[119,36,21,13,11,10,9,8,5,3,2,2,2,2,2,2,1,1,1,1,1,1,1]'
-affiliationCount: '[42,40,9,6,5,5,5,4,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'
+countryCount: '[119,36,22,13,11,10,9,8,5,3,2,2,2,2,2,2,1,1,1,1,1,1,1]'
+affiliationCount: '[42,40,9,6,6,5,5,4,4,4,3,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1]'
